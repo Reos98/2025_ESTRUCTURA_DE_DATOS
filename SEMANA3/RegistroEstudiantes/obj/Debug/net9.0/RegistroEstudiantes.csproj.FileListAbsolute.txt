@@ -1,0 +1,15 @@
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA3\RegistroEstudiantes\bin\Debug\net9.0\RegistroEstudiantes.exe
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA3\RegistroEstudiantes\bin\Debug\net9.0\RegistroEstudiantes.deps.json
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA3\RegistroEstudiantes\bin\Debug\net9.0\RegistroEstudiantes.runtimeconfig.json
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA3\RegistroEstudiantes\bin\Debug\net9.0\RegistroEstudiantes.dll
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA3\RegistroEstudiantes\bin\Debug\net9.0\RegistroEstudiantes.pdb
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA3\RegistroEstudiantes\obj\Debug\net9.0\RegistroEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA3\RegistroEstudiantes\obj\Debug\net9.0\RegistroEstudiantes.AssemblyInfoInputs.cache
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA3\RegistroEstudiantes\obj\Debug\net9.0\RegistroEstudiantes.AssemblyInfo.cs
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA3\RegistroEstudiantes\obj\Debug\net9.0\RegistroEstudiantes.csproj.CoreCompileInputs.cache
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA3\RegistroEstudiantes\obj\Debug\net9.0\RegistroEstudiantes.sourcelink.json
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA3\RegistroEstudiantes\obj\Debug\net9.0\RegistroEstudiantes.dll
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA3\RegistroEstudiantes\obj\Debug\net9.0\refint\RegistroEstudiantes.dll
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA3\RegistroEstudiantes\obj\Debug\net9.0\RegistroEstudiantes.pdb
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA3\RegistroEstudiantes\obj\Debug\net9.0\RegistroEstudiantes.genruntimeconfig.cache
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA3\RegistroEstudiantes\obj\Debug\net9.0\ref\RegistroEstudiantes.dll
