@@ -1,0 +1,15 @@
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA6\INVERTIRLISTA\InvertirLista\bin\Debug\net9.0\InvertirLista.exe
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA6\INVERTIRLISTA\InvertirLista\bin\Debug\net9.0\InvertirLista.deps.json
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA6\INVERTIRLISTA\InvertirLista\bin\Debug\net9.0\InvertirLista.runtimeconfig.json
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA6\INVERTIRLISTA\InvertirLista\bin\Debug\net9.0\InvertirLista.dll
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA6\INVERTIRLISTA\InvertirLista\bin\Debug\net9.0\InvertirLista.pdb
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA6\INVERTIRLISTA\InvertirLista\obj\Debug\net9.0\InvertirLista.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA6\INVERTIRLISTA\InvertirLista\obj\Debug\net9.0\InvertirLista.AssemblyInfoInputs.cache
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA6\INVERTIRLISTA\InvertirLista\obj\Debug\net9.0\InvertirLista.AssemblyInfo.cs
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA6\INVERTIRLISTA\InvertirLista\obj\Debug\net9.0\InvertirLista.csproj.CoreCompileInputs.cache
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA6\INVERTIRLISTA\InvertirLista\obj\Debug\net9.0\InvertirLista.sourcelink.json
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA6\INVERTIRLISTA\InvertirLista\obj\Debug\net9.0\InvertirLista.dll
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA6\INVERTIRLISTA\InvertirLista\obj\Debug\net9.0\refint\InvertirLista.dll
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA6\INVERTIRLISTA\InvertirLista\obj\Debug\net9.0\InvertirLista.pdb
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA6\INVERTIRLISTA\InvertirLista\obj\Debug\net9.0\InvertirLista.genruntimeconfig.cache
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA6\INVERTIRLISTA\InvertirLista\obj\Debug\net9.0\ref\InvertirLista.dll

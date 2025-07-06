@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CONTARELEMENTOS/1.0.0": {
+        "runtime": {
+          "CONTARELEMENTOS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CONTARELEMENTOS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
