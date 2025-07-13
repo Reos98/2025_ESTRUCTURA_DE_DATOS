@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PILASEMANA7/1.0.0": {
+        "runtime": {
+          "PILASEMANA7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PILASEMANA7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
