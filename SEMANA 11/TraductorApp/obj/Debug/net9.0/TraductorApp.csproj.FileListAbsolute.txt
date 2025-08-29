@@ -1,0 +1,15 @@
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA 11\TraductorApp\bin\Debug\net9.0\TraductorApp.exe
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA 11\TraductorApp\bin\Debug\net9.0\TraductorApp.deps.json
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA 11\TraductorApp\bin\Debug\net9.0\TraductorApp.runtimeconfig.json
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA 11\TraductorApp\bin\Debug\net9.0\TraductorApp.dll
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA 11\TraductorApp\bin\Debug\net9.0\TraductorApp.pdb
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA 11\TraductorApp\obj\Debug\net9.0\TraductorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA 11\TraductorApp\obj\Debug\net9.0\TraductorApp.AssemblyInfoInputs.cache
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA 11\TraductorApp\obj\Debug\net9.0\TraductorApp.AssemblyInfo.cs
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA 11\TraductorApp\obj\Debug\net9.0\TraductorApp.csproj.CoreCompileInputs.cache
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA 11\TraductorApp\obj\Debug\net9.0\TraductorApp.sourcelink.json
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA 11\TraductorApp\obj\Debug\net9.0\TraductorApp.dll
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA 11\TraductorApp\obj\Debug\net9.0\refint\TraductorApp.dll
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA 11\TraductorApp\obj\Debug\net9.0\TraductorApp.pdb
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA 11\TraductorApp\obj\Debug\net9.0\TraductorApp.genruntimeconfig.cache
+D:\proyectos\2025_ESTRUCTURA_DE_DATOS\SEMANA 11\TraductorApp\obj\Debug\net9.0\ref\TraductorApp.dll
